@@ -1,6 +1,6 @@
 # AndroidBlockchain
 
-Basic Blockchain library implementing approaches used by Bitcoin blockchain (see https://bitcoin.org/en/developer-guide#block-chain). 
+Very basic Blockchain library implementing approaches used by Bitcoin blockchain (see https://bitcoin.org/en/developer-guide#block-chain). 
 The Blockchain offers and basic implementation to create basic Transactions, add them to Blocks and create a whole BlockChain offering validation of tampering and data integrity.
 
 ![Blockchain](https://user-images.githubusercontent.com/4429438/44645574-635efe00-a9d8-11e8-8907-af2706288c5a.png)
